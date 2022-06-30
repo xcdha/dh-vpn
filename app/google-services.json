@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205804030687",
+    "project_id": "hydravpn-e05e4",
+    "storage_bucket": "hydravpn-e05e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205804030687:android:3af0c7c687dd98f9c6b76a",
+        "android_client_info": {
+          "package_name": "com.hydra.apps.studio.hydravpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205804030687-83qhl9iuc3t4hn26ps6k753qo5dh6t4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsDpx-8XkMiErVCljRK4RxC47xCeAuAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205804030687-83qhl9iuc3t4hn26ps6k753qo5dh6t4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
